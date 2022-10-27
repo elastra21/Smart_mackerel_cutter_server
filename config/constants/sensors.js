@@ -1,0 +1,6 @@
+module.exports = {
+  PROXIMITY_SENSOR: 1,
+  ULTRASONIC_SENSOR: 2,
+  MOTOR: 3,
+  COMPARATOR: 4
+};

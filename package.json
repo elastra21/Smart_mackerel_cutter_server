@@ -1,0 +1,19 @@
+{
+  "name": "fish",
+  "version": "1.0.0",
+  "description": "proyect to interconnect multiple devices ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Emmanuel Lastra Williams",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.5.1",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "express": "^4.17.3",
+    "socket.io": "^2.3.0",
+    "serialport": "^10.4.0"
+  }
+}
