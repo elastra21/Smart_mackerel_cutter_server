@@ -8,12 +8,12 @@ module.exports = {
   FLAG: 0,
   ULTRA: 1,
   MOT_POS: 0,
-  SERVO_POS: 1,
-  SERVO2_POS: 2,
-  RELAY1_POS: 3,
-  RELAY2_POS: 4,
-  RELAY3_POS: 5,
-  RELAY4_POS: 6,
-  RELAY5_POS: 7,
-  RELAY6_POS: 8
+  SERVO_POS: 0,
+  SERVO2_POS: 1,
+  RELAY1_POS: 2,
+  RELAY2_POS: 3,
+  RELAY3_POS: 4,
+  RELAY4_POS: 5,
+  RELAY5_POS: 6,
+  RELAY6_POS: 7
 };
